@@ -1,0 +1,5 @@
+Name: Francisco Horák
+Bootcamp: Ironhack
+Course: Webdev Part-Time
+Age:22
+Current Job: Junior Analyst @ Unbabel
